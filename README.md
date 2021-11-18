@@ -2,7 +2,7 @@
 - 👀 I’m interested in Renewable Energy and Information Science
 - 🌱 I’m currently learning Machine Learning and Statistics
 - 💞️ I’m looking to collaborate on Open source projects
-- 📫 How to reach me iChristwin@whyNotSwitch.com or linkedin.com/in/ichristwin/
+- 📫 How to reach me iChristwin@whyNotSwitch.com or https://linkedin.com/in/ichristwin/
 
 <!---
 iChristwin/iChristwin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
