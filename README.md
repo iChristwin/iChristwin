@@ -5,9 +5,9 @@ I am a Machine Learning Engineer specialized in Business Analytics and Intellige
 
 I advocate the adoption of soft energy paths, access economies, and veganism for the environment.
 
-I founded [Switch Electric and Gas Ltd](https://www.linkedin.com/company/whynotswitch/), a data-driven energy company, with the goal of decentralizing the energy infrastructure in Africa and reducing it's carbon footprint. Our business model entails generating and retailing low-cost electricity on-site using Distributed Energy Resources (DER), such as solar PVs, in conjunction with energy storage technologies. Consequently avoiding the huge economic and sociopolitical costs of centralized power plants.
+I founded [Switch Electric Ltd](https://www.linkedin.com/company/whynotswitch/), a data-driven energy company, with the goal of decentralizing the energy infrastructure in Africa and reducing it's carbon footprint. Our business model entails generating and retailing low-cost electricity on-site using Distributed Energy Resources (DER), such as solar PVs, in conjunction with energy storage technologies. Consequently avoiding the huge economic and sociopolitical costs of centralized power plants.
 
-As the Founder and CEO of [Switch Electric and Gas Ltd](https://www.linkedin.com/company/whynotswitch/), I am responsible for strategic direction, business development, technology and operations of the company. I have also developed a proprietary data analytics system with machine learning algorithms capable of analyzing electricity supply and consumption data in real time.
+As the Founder and CEO of [Switch Electric Ltd](https://www.linkedin.com/company/whynotswitch/), I am responsible for strategic direction, business development, technology and operations of the company. I have also developed a proprietary data analytics system with machine learning algorithms capable of analyzing electricity supply and consumption data in real time.
 
 <img src='https://github.com/iChristwin/iChristwin/blob/main/Team%20switch.jpg'>
 
